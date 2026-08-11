@@ -56,20 +56,11 @@ Supprime l'application. Toutes les données qu'elle contient disparaissent avec 
 
 ## Signaler un problème ou proposer une amélioration
 
-Les demandes publiques passent par le suivi d'incidents du projet :
-[github.com/BenoitGrandjean/paraguide/issues](https://github.com/BenoitGrandjean/paraguide/issues)
+Écris-nous via le suivi d'incidents du projet :
+**[github.com/BenoitGrandjean/paraguide-site/issues](https://github.com/BenoitGrandjean/paraguide-site/issues)**
 
-Pour un problème contenant des informations personnelles, écris plutôt à l'adresse de contact ci-dessous.
+Indique si possible : le modèle d'iPhone, la version d'iOS, la version de l'application, et ce que tu faisais au moment du problème.
 
-Indique si possible : le modèle d'iPhone, la version d'iOS, la version de Paraguide, et ce que tu faisais au moment du problème.
-
----
-
-## Contact
-
-<!-- À COMPLÉTER AVANT PUBLICATION : adresse de contact publique.
-     Ne pas utiliser une adresse professionnelle. -->
-
-**[adresse de contact à définir]**
+Une adresse de courriel de contact sera ajoutée ici. En attendant, le suivi d'incidents est relevé.
 
 Voir aussi la [politique de confidentialité](privacy.md).

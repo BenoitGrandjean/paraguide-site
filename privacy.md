@@ -81,8 +81,7 @@ Cette politique sera mise à jour si le fonctionnement de l'application change. 
 
 ## Contact
 
-<!-- À COMPLÉTER AVANT PUBLICATION : adresse de contact publique.
-     Ne pas utiliser une adresse professionnelle. Créer une adresse dédiée
-     (par ex. paraguide.app@…) avant d'activer GitHub Pages. -->
+Pour toute question sur cette politique, ouvre un sujet ici :
+**[github.com/BenoitGrandjean/paraguide-site/issues](https://github.com/BenoitGrandjean/paraguide-site/issues)**
 
-Pour toute question sur cette politique : **[adresse de contact à définir]**
+Comme l'application ne transmet aucune donnée à l'éditeur, il n'y a aucune donnée personnelle à consulter, corriger ou supprimer de notre côté : tout est sur ton appareil.
